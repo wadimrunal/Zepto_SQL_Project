@@ -100,4 +100,4 @@ Calculated price per gram to identify value-for-money products
 
 Grouped products based on weight into Low, Medium, and Bulk categories
 
-Measured total inventory weight per product category
+Measured total inventory weight per product category.
